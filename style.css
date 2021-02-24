@@ -1,0 +1,158 @@
+.shapkatext{
+	
+	background-image:url(xK.gif);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	font: italic normal bold 38pt times new roman, serif;
+	color:white;
+	height:190px;
+	
+}
+
+body{
+	background-image: url(back.png);
+}
+
+.pipboy{
+	float:left;
+	
+}
+
+.mario{
+	
+	float:left;
+	
+	
+}
+
+
+.robot{
+	float:left;
+}
+
+.menu{
+	float:left;
+	margin:0 auto;
+	\\border: 1px solid blue;
+	font: italic normal bold 120% times new roman, serif;
+	color:white;
+}
+
+.osninfa{
+	float:left;
+	\\margin:0 auto;
+	width:100%;
+	
+	position:relative;
+	\\border: 1px solid red;
+	background-color:white;	
+	
+}
+
+.dc{
+	float:left;
+	margin-left: 300px ;
+    margin-right: 20px;
+}
+
+.vk{
+	
+	float:left;
+	margin-left: 300px;
+    margin-right: 20px;
+	
+}
+
+
+.inst{
+	
+	float:left;
+	margin-left: 300px;
+    margin-right: 20px;
+}
+
+.podval{
+	display:block;
+	float:left;
+	margin:0 auto;
+	width:100%;
+	\\border: 1px solid red;
+	background-color:#6B1560;
+	
+}
+
+.kybok{
+	
+	float:left;
+	width:250px;
+	height:370px;
+}
+
+
+.lvup{
+	
+	float:left;
+	width:200px;
+	height:200px;
+	
+}
+
+.achivment{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+	
+}
+
+.time{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+	
+}
+
+.virusmex{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+	
+}
+
+.status{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+	
+}
+
+.lvvert{
+	
+	float:left;
+	width:100px;
+	height:370px;
+	
+}
+
+.vlgor{
+	
+	float:left;
+	width:250px;
+	height:370px;
+	
+}
+
+.head_txt{
+	width:100px;
+	float:right;
+	
+}
+.txt {
+	width:200px;
+	float:right;	
+}
+
